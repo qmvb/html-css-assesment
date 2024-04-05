@@ -29,10 +29,10 @@ body{
     border-color: rgb(0, 0, 0);
 }
 .logo{
-    position: absolute;
+
     height: 117px;
     width: 135px;
-    padding-right: 1300px;
+
 }
 .logo img{
     width: 100%;

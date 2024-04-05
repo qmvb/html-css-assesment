@@ -17,9 +17,6 @@ body {
     text-align: center;
 }
 
-.nav1:hover {
-    color: darkred;
-}
 
 .navbar {
     background-color: rgb(0, 0, 0);
@@ -33,11 +30,15 @@ body {
     border-color: rgb(0, 0, 0);
 }
 
+.nav1:hover{
+    color: darkred;
+}
+.navbutton{
+    margin: auto;
+}
 .logo {
-    position: absolute;
     height: 117px;
     width: 135px;
-    padding-right: 1300px;
 }
 
 .logo img {
